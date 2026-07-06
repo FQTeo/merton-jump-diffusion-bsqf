@@ -10,7 +10,7 @@ The repository provides a streamlined quantitative framework comparing the class
 The analysis is executed dynamically using historical data from the EURO STOXX 50 index.
 
 ### Research Workflow:
-The following research pipelie was implemented:
+The following research pipeline was implemented:
 1. **Data Acquisition**: Fetches daily historical time-series data for the EURO STOXX 50 index via the Yahoo Finance API (yfinance).  
 2. **Empirical Diagnostics**: Computes statistical moments (skewness, excess kurtosis) and evaluates tail frequencies ($|z| > 3$) to verify deviations from Gaussian normality.
 3. **Heuristic Calibration**:
