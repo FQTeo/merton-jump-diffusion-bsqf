@@ -1,6 +1,7 @@
-yfinance 
+jupyter
+matplotlib
+numpy  
 pandas 
-numpy 
-matplotlib 
 scipy 
 seaborn
+yfinance 
