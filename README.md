@@ -37,11 +37,11 @@ jupyter notebook eurostoxx_merton_vs_black_scholes_mc.ipynb
 
 
 ## Further Notes & Acknowledgements
-The full theoretical research will soon be available on the [BSQF Research Archive](https://www.bocconistudentsquantitativefinance.com/research-papers).
+The full theoretical research is available on the [BSQF Research Archive](https://www.bocconistudentsquantitativefinance.com/research-papers/option-pricing-under-jump-diffusion-the-merton-model).
 
 
 
-#### Project Team (BSQF Analyst Team)
+#### BSQF Analyst Team
 * **Luca Saracho** — Project Director
 * **Federico Ferrantino** — Analyst
 * **Zhi Yi Chen** — Analyst
